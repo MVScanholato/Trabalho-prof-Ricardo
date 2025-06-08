@@ -1,41 +1,21 @@
-lista-exercicios-01/
-├── Exercicio1-1/
-│ └── src/
-│ ├── Calculadora.java
-│ └── CalculadoraMain.java
-├── Exercicio1-2/
-│ └── src/
-│ ├── Palindromo.java
-│ └── PalindromoMain.java
-├── Exercicio1-3/
-│ └── src/
-│ ├── Fatorial.java
-│ └── FatorialMain.java
-├── Exercicio1-4/
-│ └── src/
-│ ├── ConversorTemperatura.java
-│ └── ConversorTempMain.java
-├── Exercicio2-1/
-│ └── src/
-│ ├── MaiorEMenor.java
-│ └── MaiorEMenorMain.java
-├── Exercicio2-2/
-│ └── src/
-│ ├── SomaDiagMatriz.java
-│ └── SomaDiagMatrizMain.java
-├── Exercicio3-1/
-│ └── src/
-│ ├── Numero.java
-│ └── NumeroMain.java
-├── Exercicio3-2/
-│ └── src/
-│ ├── ValorContainer.java
-│ └── TrocaValorMain.java
-├── Exercicio4-1/
-│ └── src/
-│ ├── Funcionario.java
-│ └── FuncionarioMain.java
-├── Exercicio4-2/
-│ └── src/
-│ ├── Contato.java
-│ └── ContatoMain.java
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Exercicio1-1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercicio1-2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercicio1-3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercicio1-4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercicio2-1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercicio2-2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercicio3-1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercicio3-2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercicio4-1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercicio4-2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
