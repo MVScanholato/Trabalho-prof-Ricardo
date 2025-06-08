@@ -1,0 +1,41 @@
+lista-exercicios-01/
+├── Exercicio1-1/
+│ └── src/
+│ ├── Calculadora.java
+│ └── CalculadoraMain.java
+├── Exercicio1-2/
+│ └── src/
+│ ├── Palindromo.java
+│ └── PalindromoMain.java
+├── Exercicio1-3/
+│ └── src/
+│ ├── Fatorial.java
+│ └── FatorialMain.java
+├── Exercicio1-4/
+│ └── src/
+│ ├── ConversorTemperatura.java
+│ └── ConversorTempMain.java
+├── Exercicio2-1/
+│ └── src/
+│ ├── MaiorEMenor.java
+│ └── MaiorEMenorMain.java
+├── Exercicio2-2/
+│ └── src/
+│ ├── SomaDiagMatriz.java
+│ └── SomaDiagMatrizMain.java
+├── Exercicio3-1/
+│ └── src/
+│ ├── Numero.java
+│ └── NumeroMain.java
+├── Exercicio3-2/
+│ └── src/
+│ ├── ValorContainer.java
+│ └── TrocaValorMain.java
+├── Exercicio4-1/
+│ └── src/
+│ ├── Funcionario.java
+│ └── FuncionarioMain.java
+├── Exercicio4-2/
+│ └── src/
+│ ├── Contato.java
+│ └── ContatoMain.java
